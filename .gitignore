@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+runner.log
+
+# Generated reports and plots
+plots/
+*.pdf
+
+# Datasets (if they shouldn't be tracked)
+# data/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary script files
+tmp/
+*.tmp
